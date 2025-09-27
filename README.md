@@ -1,18 +1,13 @@
-HEY EVERYONE I MADE THIS.
+🚀 HEY EVERYONE, I MADE THIS!
+How to Use:
 
+1. Download the ZIP and unzip it.
 
-HOW TO USE ?
+2. Double click on start.bat (or run python TOKEN-INFO.py).
 
-DOWLOAD zip / unzip
+Enjoy !!! 🎉
 
-cd exemple/exemple
-
-python TOKEN-INFO.py
-
-enjoy !!! 
-
-
-DONT EDIT THIS CODE !!
+⚠️ DON’T EDIT THIS CODE!
 
 
 
